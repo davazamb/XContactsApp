@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contacts.iOS", "iOS\Contact
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contacts.Droid", "Droid\Contacts.Droid.csproj", "{72D7E867-9D50-4340-93D3-1EC69393FF0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contacts.UITest", "Contacts.UITest\Contacts.UITest.csproj", "{2084E738-DB4F-493E-B390-BCF4A120BD07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +55,18 @@ Global
 		{72D7E867-9D50-4340-93D3-1EC69393FF0D}.Release|iPhone.Build.0 = Release|Any CPU
 		{72D7E867-9D50-4340-93D3-1EC69393FF0D}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{72D7E867-9D50-4340-93D3-1EC69393FF0D}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{2084E738-DB4F-493E-B390-BCF4A120BD07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2084E738-DB4F-493E-B390-BCF4A120BD07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2084E738-DB4F-493E-B390-BCF4A120BD07}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{2084E738-DB4F-493E-B390-BCF4A120BD07}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{2084E738-DB4F-493E-B390-BCF4A120BD07}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{2084E738-DB4F-493E-B390-BCF4A120BD07}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{2084E738-DB4F-493E-B390-BCF4A120BD07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2084E738-DB4F-493E-B390-BCF4A120BD07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2084E738-DB4F-493E-B390-BCF4A120BD07}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{2084E738-DB4F-493E-B390-BCF4A120BD07}.Release|iPhone.Build.0 = Release|Any CPU
+		{2084E738-DB4F-493E-B390-BCF4A120BD07}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{2084E738-DB4F-493E-B390-BCF4A120BD07}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
