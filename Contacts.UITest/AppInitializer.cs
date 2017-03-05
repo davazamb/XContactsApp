@@ -14,6 +14,7 @@ namespace Contacts.UITest
             {
                 return ConfigureApp
                     .Android
+                    .InstalledApp("com.hjr.contactsapp")
                     .StartApp();
             }
 
